@@ -5,7 +5,7 @@ var subtext = "Just a simple Unblocked games Website."; // set the subtext
 
 // more settings in main.css
 
-var <icon> 
+ 
 
 // END CONFIG
 // DO NOT MODIFY IF YOU DO NOT KNOW WHAT YOUR DOING!
