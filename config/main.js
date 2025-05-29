@@ -2,7 +2,7 @@
 
 var sitename = "Nxcy Palace."; // Change this to change the name of your website.
 var subtext = "Just a simple Unblocked games Website."; // set the subtext
-
+Mason pciks his noase.
 // more settings in main.css
 
  
